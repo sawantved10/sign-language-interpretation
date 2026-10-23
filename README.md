@@ -60,6 +60,14 @@ python -V
 
 ---
 
+## Step 1 — create a virtual environment 
+
+```bash
+python -m venv venv
+
+```bash
+python -m pip install -r requirements.txt
+
 ## Step 1 — Install Dependencies
 
 ```bash
