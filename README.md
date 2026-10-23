@@ -59,21 +59,14 @@ python -V
 ```
 
 ---
-## Step 1 — Download the code
 
-```bash
-https://github.com/shivam-kotwalia/gesture-control/archive/refs/heads/main.zip
-```
-
----
-
-## Step 2 — Install Dependencies
+## Step 1 — Install Dependencies
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-## Step 3 — Download Hand Landmarker Model
+## Step 2 — Download Hand Landmarker Model
 
 ```bash
 python setup_models.py
