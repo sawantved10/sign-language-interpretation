@@ -65,13 +65,7 @@ python -V
 ```bash
 python -m venv venv
 
-```bash
-python -m pip install -r requirements.txt
 
-## Step 1 — Install Dependencies
-
-```bash
-python -m pip install -r requirements.txt
 ```
 
 ## Step 2 — Download Hand Landmarker Model
